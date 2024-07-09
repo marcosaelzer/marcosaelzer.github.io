@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/arxiv2_gnnlimits
 excerpt: 'TL;DR: We proof that formal verification of different safety properties of graph-classifying MPNN is impossible in general and that verification problems for
 node-classifying GNN are solvable if the considered graphs have bounded degree.' 
-date: 2022-10-04
-venue: 'arXiv'
-paperurl: 'https://arxiv.org/abs/2206.05070'
+date: 2023-05-01
+venue: 'The Eleventh International Conference on Learning Representations, ICLR'
+paperurl: 'https://openreview.net/forum?id=WlbG820mRH-'
 citation: ''
 ---
 Output reachability and adversarial robustness are among the most relevant safety properties of neural networks. We show that in the context of Message Passing Neural Networks (MPNN), a common Graph Neural Network (GNN) model, formal verification is impossible. In particular, we show that output reachability of graph-classifier MPNN, working over graphs 
