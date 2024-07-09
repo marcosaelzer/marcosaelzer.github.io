@@ -20,8 +20,8 @@ or transformers.
 
 
 ## News
-- Our work "Verifying and interpreting neural networks using finite automata" (M.S., E. Alsmann, F. Bruse, M. Lange) got accepted to DLT 24 in Munich, (May 24).
-- Our work "A Logic for Reasoning About Aggregate-Combine Graph Neural Networks" (P. Nunn, M.S., F. Schwarzentruber, N. Trouquard) got accepted to IJCAI 24, (April 2024).
+- Our work "Verifying and interpreting neural networks using finite automata" (M.S., E. Alsmann, F. Bruse, M. Lange) got accepted to DLT 24 in Goettingen, (May 24).
+- Our work "A Logic for Reasoning About Aggregate-Combine Graph Neural Networks" (P. Nunn, M.S., F. Schwarzentruber, N. Trouquard) got accepted to IJCAI 24 in Jeju, (April 2024).
 - I presented our current work on GNN verification at the LoG Local Meetup 23 in Munich, (November 23).
 - I gave an invited talk surveying results on the computational complexity of reachability properties of FNN, GNN and Transformer at the 68nqrt seminar in Rennes, (November 23).
 - I gave a talk on our work on the complexity of GNN verification at HIGHLIGHTS 23 in Kassel, 
