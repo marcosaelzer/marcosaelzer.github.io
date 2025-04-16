@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD student (supervised by [Prof. Martin Lange](https://carrick.fmv.informatik.uni-kassel.de/~mlange/index.html)) and 
-part of the [Formal Methods / Theoretical Computer Science](https://www.uni-kassel.de/eecs/en/sections/theoretical-computer-science-/-formal-methods/about-us) group at the University of Kassel, Germany.
+I am a computer scientist and part of the [Automated Reasoning Group](https://arg.cs.uni-kl.de/en/) group led by [Anthony W. Lin](https://anthonywlin.github.io/) at the Rheinland-Pfälzische Technische Universität (RPTU), Kaiserslautern, Germany.
 
 ## Research
 
@@ -20,6 +19,11 @@ or transformers.
 
 
 ## News
+- Our work "Transformer Encoder Satisfiability: Complexity and Impact on Formal Reasoning" (M.S., E. Alsmann, M. Lange) got accepted to ICLR 25 in Singapore, (May 25).
+- I switched positions and am now part of the Automated Reasoning Group led by Anthony W. Lin at the RPTU, 
+Kaiserslautern, (February 25)
+- I gave an invited talk titled "The Complexity of Formal Reasoning of Neural Network-Based Models" 
+at the CerVerA seminar in Kaiserslautern, (August 24).
 - Our work "Verifying and interpreting neural networks using finite automata" (M.S., E. Alsmann, F. Bruse, M. Lange) got accepted to DLT 24 in Goettingen, (May 24).
 - Our work "A Logic for Reasoning About Aggregate-Combine Graph Neural Networks" (P. Nunn, M.S., F. Schwarzentruber, N. Trouquard) got accepted to IJCAI 24 in Jeju, (April 2024).
 - I presented our current work on GNN verification at the LoG Local Meetup 23 in Munich, (November 23).
