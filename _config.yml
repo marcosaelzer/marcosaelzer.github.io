@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marco Sälzer"
 title_separator          : "-"
 name                     : &name "Marco Sälzer"
-description              : &description "PhD Student in Computer Science"
+description              : &description "Researcher in Computer Science"
 url                      : https://marcosaelzer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marcosaelzer/marcosaelzer.github.io"
@@ -82,9 +82,8 @@ analytics:
 author:
   name             : "Marco Sälzer"
   avatar           : "profile.png"
-  bio              : "PhD Student in Formal Methods and Theoretical 
-Computer Science"
-  location         : "University of Kassel, Germany"
+  bio              : "Researcher in Formal Methods, Theoretical Computer Science and Deep Learning"
+  location         : "RPTU, Kaiserslautern, Germany"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.de/citations?user=bxhpseQAAAAJ"
