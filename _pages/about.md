@@ -19,6 +19,7 @@ or transformers.
 
 
 ## News
+- Our work "Verifying Quantized Graph Neural Networks is PSPACE-complete" (M.S., F. Schwarzentruber, N. Troquard) got accepted to IJCAI 25 in Montreal, (August 25).
 - Our work "Transformer Encoder Satisfiability: Complexity and Impact on Formal Reasoning" (M.S., E. Alsmann, M. Lange) got accepted to ICLR 25 in Singapore, (May 25).
 - I switched positions and am now part of the Automated Reasoning Group led by Anthony W. Lin at the RPTU, 
 Kaiserslautern, (February 25)
