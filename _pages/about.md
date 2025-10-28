@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a computer scientist and part of the [Automated Reasoning Group](https://arg.cs.uni-kl.de/en/) group led by [Anthony W. Lin](https://anthonywlin.github.io/) at the Rheinland-Pfälzische Technische Universität (RPTU), Kaiserslautern, Germany.
+I am a postdoc and part of the [Automated Reasoning Group](https://arg.cs.uni-kl.de/en/) group led by [Anthony W. Lin](https://anthonywlin.github.io/) at the Rheinland-Pfälzische Technische Universität (RPTU), Kaiserslautern, Germany.
 
 ## Research
 
@@ -18,7 +18,11 @@ tasks for various neural network based models, like feedforward neural networks,
 or transformers.
 
 
-## News
+## Some news
+- Our work "The Logical Expressiveness of Temporal GNNs via Two-Dimensional Product Logics" (M.S., P. Wałęga, M. Lange) got accepted to NeurIPS 25 in San Diego / Mexico City, (September 25).
+- I gave a talk bout the logical expressiveness of TGNN at HIGHLIGHTS 25 in Saarbrücken, (September 25).
+- I gave a lecture at the Formosan Summer School on Logic, Language, and Computation (FLOLAC) at NTU in
+Taipei, (August 25). 
 - Our work "Verifying Quantized Graph Neural Networks is PSPACE-complete" (M.S., F. Schwarzentruber, N. Troquard) got accepted to IJCAI 25 in Montreal, (August 25).
 - Our work "Transformer Encoder Satisfiability: Complexity and Impact on Formal Reasoning" (M.S., E. Alsmann, M. Lange) got accepted to ICLR 25 in Singapore, (May 25).
 - I switched positions and am now part of the Automated Reasoning Group led by Anthony W. Lin at the RPTU, 
