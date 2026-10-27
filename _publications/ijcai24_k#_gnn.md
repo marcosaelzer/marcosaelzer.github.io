@@ -1,11 +1,16 @@
 ---
 title: "A Logic for Reasoning About Aggregate-Combine Graph Neural Networks"
 collection: publications
-permalink: /publication/ijcai24_k#_gnn
+authors: 'Pierre Nunn, Marco Sälzer, François Schwarzentruber, Nicolas Troquard'
+publication_kind: conference
+permalink: /publication/ijcai24_k_gnn
+redirect_from:
+  - /publication/ijcai24_k
 excerpt: 'TL;DR: We introduce a modal logic incorporating counting modalities into linear inequalities and demonstrate that each formula can be converted into an equivalent graph neural network (GNN). We also show that a broad class of GNNs can be efficiently transformed into formulas and that the satisfiability problem is PSPACE-complete, enabling polynomial space solutions for various applications like GNN querying and equivalence checking.'
-date: 2024-04-30
+date: 2024-08-03
 venue: 'IJCAI'
 paperurl: 'https://www.ijcai.org/proceedings/2024/391'
+arxivurl: 'https://arxiv.org/abs/2405.00205'
 citation: ''
 ---
 

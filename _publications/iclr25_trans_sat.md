@@ -1,11 +1,14 @@
 ---
 title: "Transformer Encoder Satisfiability: Complexity and Impact on Formal Reasoning"
 collection: publications
+authors: 'Marco Sälzer, Eric Alsmann, Martin Lange'
+publication_kind: conference
 permalink: /publication/iclr25_trans_sat
 excerpt: 'TL;DR: We investigate the challenges and possibilities of formal reasoning for encoder-only transformers (EOT) by examining their satisfiability problem (SAT). We find SAT is undecidable for general EOT but identify decidable and NEXPTIME-hard scenarios for quantized EOT, highlighting the complexity of these cases.'
-date: 2025-05-01
+date: 2025-04-24
 venue: 'ICLR'
 paperurl: 'https://openreview.net/forum?id=VVO3ApdMUE'
+arxivurl: 'https://arxiv.org/abs/2405.18548'
 citation: ''
 ---
 

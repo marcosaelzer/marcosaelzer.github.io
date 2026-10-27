@@ -1,0 +1,11 @@
+{% assign publication = include.publication %}
+{% if publication.citation and publication.citation != empty %}
+  <p>Recommended citation: {{ publication.citation }}</p>
+{% endif %}
+{% if publication.paperurl or publication.arxivurl %}
+  <p>
+    {% if publication.paperurl %}<a href="{{ publication.paperurl }}">{% if publication.publication_kind == 'preprint' %}Read preprint{% else %}Read paper{% endif %}</a>{% endif %}
+    {% if publication.paperurl and publication.arxivurl %} · {% endif %}
+    {% if publication.arxivurl %}<a href="{{ publication.arxivurl }}">arXiv version</a>{% endif %}
+  </p>
+{% endif %}

@@ -1,11 +1,13 @@
 ---
 title: "Finite Convergence of Mu-Calculus Fixpoints on Genuinely Infinite Structures"
 collection: publications
+authors: 'Florian Bruse, Marco Sälzer, Martin Lange'
+publication_kind: conference
 permalink: /publication/mfcs21_mucalc
 excerpt: 'TL;DR: We show that there are structures with infinite bisimulation quotient that ensure finite convergence of all mu-calculus formulas.' 
 date: 2021-08-18
 venue: '46th International Symposium on Mathematical Foundations of Computer Science (MFCS 2021)'
-paperurl: 'https://drops.dagstuhl.de/opus/volltexte/2021/14464/'
+paperurl: 'https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.MFCS.2021.24'
 citation: ''
 ---
 

@@ -1,11 +1,14 @@
 ---
 title: "The Logical Expressiveness of Temporal GNNs via Two-Dimensional Product Logics"
 collection: publications
+authors: 'Marco Sälzer, Przemyslaw Walega, Martin Lange'
+publication_kind: conference
 permalink: /publication/neurips25_tgnn_logic
 excerpt: 'TL;DR: We establish (some) characterisations of the expressive capabilities of different TGNN models based on product logics.'
 date: 2025-10-01
 venue: 'NeurIPS'
-paperurl: 'https://openreview.net/forum?id=v13yQBxhut'
+paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2025/hash/520b379123d16e41f85472e766846486-Abstract-Conference.html'
+arxivurl: 'https://arxiv.org/abs/2505.11930'
 citation: ''
 ---
 
