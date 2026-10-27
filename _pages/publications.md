@@ -34,3 +34,12 @@ Selected publications and preprints are listed below, newest first. For a full b
   {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
+
+## Edited proceedings
+
+**Marco Sälzer, François Schwarzentruber, and Nicolas Troquard (eds.).**
+[Proceedings of the Workshop on Logical Methods for Neural Network Analysis (LOGICNN 2026)](https://ceur-ws.org/Vol-4276/).
+CEUR Workshop Proceedings, volume 4276, 2026. Published September 29, 2026.
+
+The [workshop](https://perso.ens-lyon.fr/francois.schwarzentruber/research/events/logicnn2026/)
+took place at FLoC in Lisbon, Portugal, on July 25, 2026.

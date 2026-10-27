@@ -29,8 +29,18 @@ Gesellschaft für Informatik (GI), the Austrian Computer Society (OCG), and the 
 Society (SI) for my doctoral research on the formal verification of neural network models.
 [Read the GI announcement](https://gi.de/meldung/gesellschaft-fuer-informatik-zeichnet-dr-marco-saelzer-mit-dissertationspreis-aus).
 
+## Service
+
+**2026 — LOGICNN workshop organiser and proceedings editor.** Together with François Schwarzentruber
+and Nicolas Troquard, I co-organised the
+[Workshop on Logical Methods for Neural Network Analysis (LOGICNN 2026)](https://perso.ens-lyon.fr/francois.schwarzentruber/research/events/logicnn2026/)
+at FLoC in Lisbon, Portugal, on July 25, 2026. We also co-edited the
+[proceedings, published as CEUR Workshop Proceedings, volume 4276](https://ceur-ws.org/Vol-4276/).
+
 ## News
 
+- **October 2026:** I contributed ["Formale Verifikation für KI-Systeme" to GI-Radar 411, "Beweisbar sicher?"](https://gi-radar.de/411-beweisbar-sicher/), discussing the possibilities and limits of formal verification for AI systems. Published on October 16; the article is in German.
+- **September 2026:** The [LOGICNN 2026 proceedings](https://ceur-ws.org/Vol-4276/), which I co-edited with François Schwarzentruber and Nicolas Troquard, were published by CEUR-WS on September 29.
 - **September 2026:** Our preprint [Length Generalization for Transformers via Compression]({{ '/publication/arxiv26_length_generalization' | relative_url }}) is available on arXiv.
 - **August 2026:** Our paper [The Complexity of Verifying Feedforward Neural Networks in Quantised Settings]({{ '/publication/ijcai26_quantised_fnn' | relative_url }}) appeared at IJCAI-ECAI 2026.
 - **July 2026:** Our papers [Verifying Quantized GNNs With Readout Is Decidable But Highly Intractable]({{ '/publication/kr26_gnn_readout' | relative_url }}) and [The Polynomial Counting Capabilities of Message Passing Neural Networks]({{ '/publication/kr26_mpnn_counting' | relative_url }}) appeared at KR 2026.

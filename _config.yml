@@ -69,6 +69,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - https://www.linkedin.com/in/marcosaelzer/
+    - https://bsky.app/profile/marcosaelzer.bsky.social
+    - https://fediscience.org/@marcosaelzer
 
 
 # Analytics
@@ -91,6 +94,7 @@ author:
   researchgate     : 
   uri              :
   bitbucket        :
+  bluesky          : "https://bsky.app/profile/marcosaelzer.bsky.social"
   codepen          :
   dribbble         :
   flickr           :
@@ -102,14 +106,14 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "marcosaelzer"
+  mastodon         : "https://fediscience.org/@marcosaelzer"
   orcid            : "https://orcid.org/0000-0002-8012-5465"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "marcosaelzer"
   vine             :
   weibo            :
   xing             :
